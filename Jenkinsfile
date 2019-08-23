@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
 		
 			when{
-				changeRequest()
+				changeRequest title:'change-pr'
 			}
 		
             steps {                
