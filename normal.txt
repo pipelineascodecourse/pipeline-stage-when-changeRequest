@@ -1,1 +1,1 @@
-some text 3
+This commit is merged from the dev branch
